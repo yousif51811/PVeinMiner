@@ -15,7 +15,7 @@ A Veinminer addon inspired by [Miraculixx's Veinminer](https://modrinth.com/data
 
 <img src="./Assets/1.gif" width="400">
 
-[!WARNING] This plugin is still in early development; expect bugs!
+> [!WARNING] This plugin is still in early development; expect bugs!
 
 ## Configuration
 
