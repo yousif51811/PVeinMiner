@@ -5,6 +5,10 @@
 
 <h1 align="center">⛏️ PVeinMiner</h1>
 
+<a href="https://market.pumpkinmc.org/plugin/Rb4MfId7-pveinminer" title="PumpkinMC: Marketplace">
+  <img src="https://www.freewebtools.com/api/badge/PumpkinMC-Marketplace-fe7d37.svg?style=flat&labelColor=555" alt="PumpkinMC: Marketplace" decoding="async" loading="lazy">
+</a>
+
 Mine the whole vein on mining a single ore/block. Make the tedious mining experience to something satisfying and fun!
 
 A Veinminer addon inspired by [Miraculixx's Veinminer](https://modrinth.com/datapack/veinminer) for PumpkinMC servers.
