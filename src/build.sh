@@ -3,7 +3,7 @@ set -eu
 
 SCRIPT_DIR=$(CDPATH= cd -- "$(dirname -- "$0")" && pwd)
 # Use the default API checkout unless a different path is provided.
-API_DIR=${PUMPKIN_API_DIR:-"$SCRIPT_DIR/../pumpkin-api"}
+API_DIR=${PUMPKIN_API_DIR:-"$SCRIPT_DIR/../../pumpkin-api"}
 
 if [ ! -r "$API_DIR/lib/libpumpkin-api.a" ]; then
     printf 'Cannot read API archive: %s/lib/libpumpkin-api.a\n' "$API_DIR" >&2
