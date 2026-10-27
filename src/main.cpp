@@ -88,7 +88,7 @@ pumpkin_metadata_t get_meta(void) {
     static const char* permissions[] = {"fs.read.data", "fs.write.data"};
     return (pumpkin_metadata_t) {
         .name = "pveinminer",
-        .version = "0.1.0",
+        .version = "0.1.1",
         .authors = authors,
         .authors_count = 1,
         .description = "Mine the whole vein on mining a single ore to make mining more fun.",
